@@ -1,6 +1,6 @@
 # Logistic Regression – Binary Classification (Task 4)
 
-This project is part of my internship task focused on building a **binary classifier using Logistic Regression**. The classification is performed on the **Breast Cancer Wisconsin Dataset**, a well-known dataset used to distinguish between malignant and benign tumor samples.
+This project focuses on building a **binary classifier using Logistic Regression**. The classification is performed on the **Breast Cancer Wisconsin Dataset**, a well-known dataset used to distinguish between malignant and benign tumor samples.
 
 ## Objective
 
